@@ -1,5 +1,5 @@
 # Laboratorio Estructura de Datos y Análisis de Algoritmos: "Salvación espacial"
-Este proyecto de laboratorio, corresponde a la realización de un programa en lenguaje de programación C denominado "Salvación espacial", que consiste en seleccionar a las personas que serán parte de la tripulación de la nave, de acuerdo a las calificaciones finales, y teniendo en cuenta el peso máximo que soporta la nave.
+Este proyecto de laboratorio, corresponde a la realización de un programa en *lenguaje de programación C* denominado "Salvación espacial", que consiste en seleccionar a las personas que serán parte de la tripulación de la nave, de acuerdo a las calificaciones finales, y teniendo en cuenta el peso máximo que soporta la nave.
 
 
 ## Funcionalidades del programa 📋
